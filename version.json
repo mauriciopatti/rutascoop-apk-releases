@@ -1,7 +1,7 @@
 {
-  "latest_version_code": 11,
-  "latest_version_name": "1.4.1",
+  "latest_version_code": 13,
+  "latest_version_name": "1.4.3",
   "min_version_code": 9,
-  "apk_url": "https://github.com/mauriciopatti/rutascoop-apk-releases/releases/download/v1.4.1/rutas-coop-1.4.1-build11.apk",
-  "notas": "Mapa para llegar al domicilio, tarjeta de por que se corta el suministro y actualizacion automatica."
+  "apk_url": "https://github.com/mauriciopatti/rutascoop-apk-releases/releases/download/v1.4.3/rutas-coop-1.4.3-13-release.apk",
+  "notas": "Arreglo del arranque: los permisos y el aviso de actualizacion ya no se apilan. Antes habia que tocar 'atras' dos veces para llegar al Inicio."
 }
