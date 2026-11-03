@@ -1,7 +1,7 @@
 {
-  "latest_version_code": 9,
-  "latest_version_name": "1.4.0",
-  "min_version_code": 8,
-  "apk_url": "https://github.com/mauriciopatti/rutascoop-apk-releases/releases/download/v1.4.0/rutas-coop-1.4.0-build9.apk",
+  "latest_version_code": 11,
+  "latest_version_name": "1.4.1",
+  "min_version_code": 10,
+  "apk_url": "https://github.com/mauriciopatti/rutascoop-apk-releases/releases/download/v1.4.1/rutas-coop-1.4.1-build11.apk",
   "notas": "Mapa para llegar al domicilio y tarjeta de por que se corta el suministro."
 }
