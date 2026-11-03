@@ -2,6 +2,6 @@
   "latest_version_code": 12,
   "latest_version_name": "1.4.2",
   "min_version_code": 12,
-  "apk_url": "https://github.com/mauriciopatti/rutascoop-apk-releases/releases/download/v1.4.1/rutas-coop-1.4.1-build11.apk",
-  "notas": "Cambio de contrato de la API: las versiones anteriores ya no pueden trabajar."
+  "apk_url": "",
+  "notas": "RED 2: obligatorio pero sin URL de descarga."
 }
