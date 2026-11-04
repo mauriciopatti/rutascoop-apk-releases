@@ -1,7 +1,7 @@
 {
-  "latest_version_code": 13,
-  "latest_version_name": "1.4.3",
+  "latest_version_code": 14,
+  "latest_version_name": "1.4.4",
   "min_version_code": 9,
-  "apk_url": "https://github.com/mauriciopatti/rutascoop-apk-releases/releases/download/v1.4.3/rutas-coop-1.4.3-13-release.apk",
-  "notas": "Arreglo del arranque: los permisos y el aviso de actualizacion ya no se apilan. Antes habia que tocar 'atras' dos veces para llegar al Inicio."
+  "apk_url": "https://github.com/mauriciopatti/rutascoop-apk-releases/releases/download/v1.4.4/rutas-coop-1.4.4-14-release.apk",
+  "notas": "Reanudaciones fuera de ruta arriba del tablero. Facturas de la suspension. En la guardia: boton para ir al domicilio y 'No se reanuda' con motivo, que no cierra el item."
 }
